@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoxLearn.License", "FoxLearn.License\FoxLearn.License.csproj", "{D2110FD2-EEC6-4467-A1C9-F16F3CFA1148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2110FD2-EEC6-4467-A1C9-F16F3CFA1148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2110FD2-EEC6-4467-A1C9-F16F3CFA1148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2110FD2-EEC6-4467-A1C9-F16F3CFA1148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2110FD2-EEC6-4467-A1C9-F16F3CFA1148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {128D92B8-ED19-4162-A091-3FC8D3783E80}
+	EndGlobalSection
+EndGlobal
